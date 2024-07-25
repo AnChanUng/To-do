@@ -1,3 +1,3 @@
-## todolist API 개발
+## todo API
 
 ## UI
